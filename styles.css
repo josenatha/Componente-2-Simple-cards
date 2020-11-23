@@ -1,0 +1,28 @@
+.card{
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    ing: 10px;
+    height: 300px;
+    width:360px;
+    display:  inline-block;
+  }
+  .primary-card {
+    border: 1px solid rgb(90, 177, 245);
+    color: rgb(60, 177, 255);
+  }
+  .secondary-card {
+    border: 1px solid grey;
+    color: grey;
+  }
+  .header {
+    padding: 10px;
+    background: rgba(233, 232, 232, 0.514);
+    color: black;
+    border-bottom: 1px solid grey;
+  }
+  .danger-card {
+      border: 1px solid rgb(239, 59, 70);
+     color: rgb(219, 49, 49);
+  }
+  
